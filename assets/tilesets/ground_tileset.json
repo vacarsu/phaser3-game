@@ -1,0 +1,13 @@
+{ "columns":2,
+ "image":"..\/ground_tileset.png",
+ "imageheight":124,
+ "imagewidth":248,
+ "margin":0,
+ "name":"ground_tileset",
+ "spacing":0,
+ "tilecount":2,
+ "tileheight":124,
+ "tilewidth":124,
+ "transparentcolor":"#ff00f6",
+ "type":"tileset"
+}

@@ -1,0 +1,13 @@
+{ "columns":1,
+ "image":"..\/assets\/ground.png",
+ "imageheight":124,
+ "imagewidth":124,
+ "margin":0,
+ "name":"placeholder_ground",
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":124,
+ "tilewidth":124,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset"
+}

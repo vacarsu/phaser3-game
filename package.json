@@ -1,0 +1,28 @@
+{
+  "name": "colyseus-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "serve": "webpack-serve --config webpack.config.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colyseus": "^0.9.5",
+    "colyseus.js": "^0.9.3",
+    "phaser": "^3.6.0",
+    "raw-loader": "^0.5.1"
+  },
+  "devDependencies": {
+    "ts-loader": "^4.2.0",
+    "typescript": "^2.8.3",
+    "webpack": "^4.7.0",
+    "webpack-cli": "^2.1.2",
+    "webpack-dev-server": "^3.1.4",
+    "webpack-livereload-plugin": "^2.1.1",
+    "webpack-serve": "^0.3.2"
+  }
+}

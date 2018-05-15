@@ -1,0 +1,13 @@
+{ "columns":1,
+ "image":"..\/ledge.png",
+ "imageheight":124,
+ "imagewidth":124,
+ "margin":0,
+ "name":"ledge",
+ "spacing":0,
+ "tilecount":1,
+ "tileheight":124,
+ "tilewidth":124,
+ "transparentcolor":"#ff00f6",
+ "type":"tileset"
+}

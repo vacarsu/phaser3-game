@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "module": "es6",
+    "target": "es5",
+    "jsx": "react",
+    "allowJs": true
+  },
+  "include": [
+    "**/*.ts"
+  ],
+  "files": [
+    "src/types/colyseus.d.ts",
+    "src/types/hero.d.ts",
+    "src/types/phaser.d.ts"
+  ]
+}
